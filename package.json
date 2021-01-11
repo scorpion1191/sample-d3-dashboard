@@ -2,7 +2,7 @@
   "name": "Sample-D3-Charts",
   "version": "1.0.0",
   "description": "Sample D3 Charts",
-  "main": "index.js",
+  "main": "public.js",
   "scripts": {
     "start": "npm install && nodemon index.js"
   },
