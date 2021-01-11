@@ -1,0 +1,39 @@
+
+/*custom HEIGHT Classes */
+ html,body{height: 100%;width: 100%}
+.fullHeight{height: 100%;}
+.fullWidth{width: 100%;}
+.navbar{margin-bottom: 10px !important}
+.container-fluid{height: calc(100% - 71px)}
+.panel{height: 100%}
+.panel-group{height: calc(50% - 20px)}
+.panel-body{height: calc(100% - 40px)}
+
+
+.primaryColor{ color: #E50914!important}
+.primaryBg{ background: #E50914!important;fill:#E50914!important}
+
+.secondaryColor{color: #757575!important }
+.secondaryBg{background: #757575!important }
+
+.blackColor{color: black!important }
+.blackBg{background: black!important }
+
+.whiteColor{color: white!important;fill:white }
+.whiteBg{background: white!important }
+
+
+/* custom computed Styles */
+
+.pad-top-0{padding-top: 0px;}
+.pad-bottom-0{padding-bottom: 0px;}
+
+/* toolTip */
+.tooltip{
+    color: white;
+    background: rgba(0,0,0,0.5);
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+    font-size: 8px
+}
