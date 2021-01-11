@@ -4,7 +4,7 @@
   "description": "Sample D3 Charts",
   "main": "public.js",
   "scripts": {
-    "start": "npm install && nodemon index.js"
+    "start": "npm install && nodemon public.js"
   },
   "author": "subbu",
   "license": "ISC",
